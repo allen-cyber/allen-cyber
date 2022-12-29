@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allen-cyber Allen Alisen
+- 👋 Hi, I’m Allen Alisen
 - 👀 I’m interested in Data Analytics and Web Development
 - 🌱 I’m currently learning and improving in Data Analytics and Web Development experiences
 - 💞️ I’m looking to collaborate on getting other peolpe's data analytics and web development work done
