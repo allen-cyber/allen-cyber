@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allen-cyber Allen Alisen
 - 👀 I’m interested in Data Analytics and Web Development
-- 🌱 I’m currently learning and improving in Data Analytics experiences
-- 💞️ I’m looking to collaborate on getting other peolpe's data analytics work done
+- 🌱 I’m currently learning and improving in Data Analytics and Web Development experiences
+- 💞️ I’m looking to collaborate on getting other peolpe's data analytics and web development work done
 - 📫 How to reach me: +255753657052 or allenalisen01@gmail.com
 
 <!---
